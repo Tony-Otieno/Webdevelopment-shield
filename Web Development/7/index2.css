@@ -1,0 +1,26 @@
+body{
+    background-color: hsl(228, 96%, 53%);
+}
+.navigation{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.logo {
+color: hsl(123, 92%, 46%);
+}
+.navlinks > a{
+    color: white;
+    text-decoration: none;
+    margin: 16px;
+    
+    
+}
+button{
+    background-color: purple;
+    
+}

@@ -1,0 +1,15 @@
+body {
+background-image: url();
+}
+h1 {
+color: blue;
+font-size: 24px;
+}
+.my-class {
+    color: red;
+    font-size: 16px;
+}
+#my-id {
+    color: green;
+    font-size: 12px;
+}
